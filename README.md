@@ -77,17 +77,24 @@
 
 ## Connect with me
 
+<br clear="both">
+
 <div align="center">
-<a href="https://github.com/ayusmann" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://www.linkedin.com/in/anjuman-raj/" target='_blank' >
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </a>
-<a href="https://instagram.com/ayusman23_" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<a hred="mailto:anjumanraj2@gmail.com" target='_blank' >
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </a>
-<a href="https://linkedin.com/in/anjuman-raj-ba390b1b5" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+<a href="https://www.instagram.com/ayusman23_/" target='_blank' >
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</a>
+<a href="https://telegram.me/magnetic_flux" target='_blank' >
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+</a>
 </div>
+
+###
 
 <br clear="both">
 
@@ -100,12 +107,17 @@
 
 ## Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=anjumann&show_icons=true&count_private=true&hide_border=true&theme=algolia" align="center" /></div>  <div align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=anjumann&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ayusmann" /></div>
-<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjumann&theme=algolia" alt="anjuman" /></div>
-<br/>
+<br clear="both">
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=anjumann&&style=flat-square" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anjumann&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anjumann&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=anjumann&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+<br clear="both">
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=anjumann.anjumann&left_text=Profile visits"  />
 </div>
 
 <br/>
@@ -118,3 +130,18 @@
                 />
             </a></div>
 <br />
+
+
+## Spotify Playing 🎧
+<div align="center" >
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=2ldcwenidfoof3u5pkeo6qndg" alt="anjumann" />
+ </div>
+
+
+<div align="center" >
+
+### Show some ❤️ by starring some of the repositories!
+### Thanks for visiting my profile!
+
+</div>
+
