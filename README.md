@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 25%" />
-</div>  
-
+</div>
 
 ### <div align="center">Hi 👋, I'm Anjuman Raj, a passionate Full-Stack developer 👨‍💻 from India. 🚀</div>
 
@@ -88,15 +87,15 @@
 <a href="https://linkedin.com/in/anjuman-raj-ba390b1b5" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
+</div>
 
 <br clear="both">
 
 ## Commits
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/anjumann/anjumann/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/anjumann/anjumann/5975c1484795c3d8c275f0e8d16f9837116c708d/snake.svg" alt="Snake animation" />
+<!-- <img src="https://github.com/anjumann/anjumann/blob/snake/snake.svg" alt="Snake animation" /> -->
 </div>
 
 ## Github Stats
@@ -107,8 +106,7 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=anjumann&&style=flat-square" align="center" />
-</div>  
-
+</div>
 
 <br/>
 
