@@ -2,17 +2,26 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 25%" />
 </div>
 
-### <div align="center">Hi 👋, I'm Anjuman Raj, a passionate Full-Stack developer 👨‍💻 from India. 🚀</div>
+# Anjuman Raj 👩‍💻 - Full Stack Web Developer
 
-- 🔭 I’m currently working on Open-Source Contributions
+Hello there! 👋 I'm Anjuman, a full stack web developer who loves to code, create and innovate.
 
-- 🌱 I’m currently learning Backend Development and DevOps
+## About Me
 
-- ❓ Ask me about anything related to MERN stack and related technologies
+- 💻 I'm a MERN stack developer, always striving to learn and explore new areas of technology, such as machine learning and DevOps.
+- 🤝 I'm passionate about collaborating on projects and open to new opportunities. Let's connect! You can reach out to me at anjumanraj2@gmail.com 📧.
+- 📚 In my free time, I enjoy reading tech blogs and listening to podcasts to stay up-to-date with the latest trends and developments in the industry.
 
-- 👯 I’m looking to collaborate on React.Js & Next.Js Tech Stack
+<!-- ## My Skills
 
-- 📫 How to reach me **anjumanraj2@gmail.com**
+- ⚛️ React, HTML, CSS, JavaScript, Tailwind CSS, Firebase, and Redux are some of my core skills as a web developer.
+- 🐍 I'm proficient in Python, as well as TypeScript, Node.js, Linux, and DevOps tools like Docker, Kubernetes, and shell scripting.
+- ☁️ I have experience with cloud platforms like Google Cloud and AWS.
+- 🎨 I'm also familiar with design tools like Canva and have worked with web frameworks like Flask and TensorFlow. -->
+
+## Get in Touch
+
+Don't hesitate to contact me at anjumanraj2@gmail.com 📧 if you have any questions, ideas, or just want to chat! Let's create something amazing together.
 
 <br/>
 
@@ -132,10 +141,10 @@
 <br />
 
 
-## Spotify Playing 🎧
+<!-- ## Spotify Playing 🎧
 <div align="center" >
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=2ldcwenidfoof3u5pkeo6qndg" alt="anjumann" />
- </div>
+ </div> -->
 
 
 <div align="center" >
