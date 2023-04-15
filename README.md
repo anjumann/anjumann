@@ -110,7 +110,7 @@ Don't hesitate to contact me at anjumanraj2@gmail.com 📧 if you have any quest
 ## Commits
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/anjumann/anjumann/5975c1484795c3d8c275f0e8d16f9837116c708d/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/anjumann/anjumann/snake/snake.svg" alt="Snake animation" />
 <!-- <img src="https://github.com/anjumann/anjumann/blob/snake/snake.svg" alt="Snake animation" /> -->
 </div>
 
