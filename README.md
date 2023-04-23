@@ -107,14 +107,16 @@ Don't hesitate to contact me at anjumanraj2@gmail.com 📧 if you have any quest
 
 <br clear="both">
 
+<!--
 ## Commits
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/anjumann/anjumann/5975c1484795c3d8c275f0e8d16f9837116c708d/snake.svg" alt="Snake animation" />
-<!-- <img src="https://github.com/anjumann/anjumann/blob/snake/snake.svg" alt="Snake animation" /> -->
-</div>
-
+</div> -->
 ## Github Stats
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjumann&theme=darkhub&no-bg=true&row=1&margin-w=15&margin-h=15" alt="anjumann" /></a> </p>
+
 
 <br clear="both">
 
@@ -140,17 +142,19 @@ Don't hesitate to contact me at anjumanraj2@gmail.com 📧 if you have any quest
             </a></div>
 <br />
 
-
 <!-- ## Spotify Playing 🎧
 <div align="center" >
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=2ldcwenidfoof3u5pkeo6qndg" alt="anjumann" />
  </div> -->
+<div align="center" >
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
+</div>
 <div align="center" >
 
 ### Show some ❤️ by starring some of the repositories!
+
 ### Thanks for visiting my profile!
 
 </div>
-
