@@ -126,7 +126,7 @@ Don't hesitate to contact me at anjumanraj2@gmail.com 📧 if you have any quest
   <img src="https://streak-stats.demolab.com?user=anjumann&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<img alt="Anjuman's github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=anjumann&theme=react-dark" />
+<img alt="Anjuman's github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=anjumann&theme=high-contrast" />
 
 <br clear="both">
 <div align="center">
