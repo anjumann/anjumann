@@ -126,7 +126,8 @@ Don't hesitate to contact me at anjumanraj2@gmail.com 📧 if you have any quest
   <img src="https://streak-stats.demolab.com?user=anjumann&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<img alt="Anjuman's github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=anjumann&theme=high-contrast" />
+<!-- <img alt="Anjuman's github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=anjumann&theme=high-contrast" /> -->
+![](https://github-readme-activity-graph.vercel.app/graph?username=anjumann&bg_color=000000&color=9e4c4c&line=0bfe95&point=ffffff&area=true&hide_border=true)
 
 <br clear="both">
 <div align="center">
