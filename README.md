@@ -5,9 +5,9 @@
 # Anjuman Raj 👩‍💻 - Full Stack Web Developer
 
 Hello there! 👋 I'm Anjuman, a full stack web developer who loves to code, create and innovate.
-
+<!--
 [![An image of @anjumann6's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anjumann6)](https://holopin.io/@anjumann6)
-
+-->
 ## About Me
 
 - 💻 I'm a MERN stack developer, always striving to learn and explore new areas of technology, such as machine learning and DevOps.
